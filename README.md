@@ -1,1 +1,1 @@
-initial github repository
+Initial github repository
